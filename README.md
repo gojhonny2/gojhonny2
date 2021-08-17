@@ -2,7 +2,7 @@
 - 👀 I’m interested in softwares    
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on vision
-- 📫 How to reach me Vegeta_sama#5174 discord
+- 📫 How to reach me 
 
 
 <!---
